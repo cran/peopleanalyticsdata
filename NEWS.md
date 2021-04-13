@@ -1,4 +1,8 @@
-# peopleanalytics data 0.1.9000
+# peopleanalyticsdata 0.2.1
+
+* Adjusted `charity_donations` and `health_insurance` for more realism in data set
+
+# peopleanalytics data 0.2.0
 
 * Added `employee_performance` dataset
 * Added `recruiting` dataset
